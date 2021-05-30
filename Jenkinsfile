@@ -17,4 +17,5 @@ Pipeline {
 				sh "cd PremierRepo && java Main"
 			}
 		}
+	}
 }
